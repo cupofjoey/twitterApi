@@ -1,0 +1,34 @@
+{
+  "name": "twitterApi",
+  "version": "1.0.0",
+  "description": "Playing with twitter api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node followBot.js",
+    "start-dev": "nodemon followBot.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piq9117/twitterApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piq9117/twitterApi/issues"
+  },
+  "homepage": "https://github.com/piq9117/twitterApi#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "http-status": "^0.2.0",
+    "twit": "^2.1.1",
+    "underscore": "^1.8.3",
+    "wagner-core": "^0.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
