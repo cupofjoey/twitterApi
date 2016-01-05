@@ -1,2 +1,2 @@
 # twitterApi
-access twitterApi for a node exercise
+Playing with twitter api
