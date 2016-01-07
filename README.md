@@ -8,3 +8,5 @@ Change the ````{ track: '' }```` parameter so you can follow the stream you desi
 
 #Counts
 Tweets are also counted and written to a file named tweetCount.txt
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-swag.svg)](http://forthebadge.com)
